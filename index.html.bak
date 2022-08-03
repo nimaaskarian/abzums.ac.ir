@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>دانشگاه علوم پزشکی البرز</title>
+    <link rel="stylesheet" href="css/Yekan.css" />
+    <link rel="stylesheet" href="css/uikit.almost-flat.min.css" />
+
+    <link rel="stylesheet" href="css/owl.carousel.min.css" />
+    <link rel="stylesheet" href="css/owl.theme.default.min.css" />
+
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+  <body>
+    <header>
+      <div class="header-logo-container">
+        <div
+          class="uk-container uk-container-center uk-flex uk-flex-wrap uk-flex-center uk-flex-middle"
+        >
+          <div class="header-logo-main">
+            <img src="media/logo-text.png" alt="" />
+          </div>
+          <hr class="uk-flex-item-1 uk-invisible" />
+          <div class="header-logo-main">
+            <img src="media/logo-alt.png" alt="" />
+          </div>
+        </div>
+      </div>
+      <div data-uk-sticky="{top:-20}" class="nav-container">
+        <div class="uk-container uk-container-center">
+          <div class="uk-flex uk-flex-wrap uk-flex-middle">
+            <nav>
+              <ul class="nav-main">
+                <li>
+                  <a href="#">صفحه اصلی</a>
+                </li>
+                <li>
+                  <a href="#">ریاست</a>
+                  <ul>
+                    <li>
+                      تست
+                    </li>
+                    <li>
+                      تست
+                    </li>
+                    <li>
+                      تست
+                    </li>
+                  </ul>
+                </li>
+                <li>
+                  <a href="#">معاونت ها</a>
+                </li>
+                <li>
+                  <a href="#">دانشکده ها</a>
+                </li>
+                <li>
+                  <a href="#">بیمارستان ها</a>
+                </li>
+                <li>
+                  <a href="#">مراکز بهداشت</a>
+                </li>
+                <li>
+                  <a href="#">شبکه ها</a>
+                </li>
+                <li>
+                  <a href="#">مراکز تحقیقاتی</a>
+                </li>
+                <li>
+                  <a href="#">میز خدمت الکترونیک</a>
+                </li>
+                <li>
+                  <a href="#">تماس با ما</a>
+                </li>
+              </ul>
+            </nav>
+          </div>
+        </div>
+      </div>
+    </header>
+    <div class="uk-container uk-container-center">
+      <div class="owl-carousel owl-theme owl-rtl">
+        <div class="item">
+          <img src="media/serv1.png" alt="" />
+          <div class="text">سما سامانه</div>
+        </div>
+        <div class="item">
+          <img src="media/serv2.png" alt="" />
+          <div class="text">نوبت دهی اینترنتی</div>
+        </div>
+        <div class="item">
+          <img src="media/serv3.png" alt="" />
+          <div class="text">انتقادات و پیشنهادات</div>
+        </div>
+        <div class="item">
+          <img src="media/serv4.png" alt="" />
+          <div class="text">سامانه کارکنان دانشگاه</div>
+        </div>
+        <div class="item">
+          <img src="media/serv7.png" alt="" />
+          <div class="text">اورژانس</div>
+        </div>
+        <div class="item">
+          <img src="media/otomasion-new.png" alt="" />
+          <div class="text">پرتال ارتباط با صنعت</div>
+        </div>
+        <div class="item">
+          <img src="media/otomasion-new.png" alt="" />
+          <div class="text">چارگون</div>
+        </div>
+      </div>
+    </div>
+    <div class="marquee-container">
+      <span class="marquee"></span>
+      <span class="cursor"></span>
+    </div>
+    <div class="uk-container uk-container-center">
+      <div class="news-container">
+
+      <div class="news">
+        <img src="media/03d94fad-af8b-48b0-a748-0caa3eef3016_20220730_173405.jpg" alt="" />
+        <div class="news-text">
+          <div class="news-title">
+            <span class="small"></span>
+            <a href=""
+              >پیام مسئول دفتر نهاد نمایندگی مقام معظم رهبری در دانشگاه به
+              مناسبت فرا رسیدن ماه محرم</a
+            >
+            <span class="alert">جدید!</span>
+          </div>
+          <div class="news-details">
+            <span class="uk-icon-comments"></span>
+            <span class="news-comments">تعداد نظرات: ۰</span>
+          </div>
+          <p>
+            حجت الاسلام والمسلمین دکتر مرتضی مطهری پور مسئول دفتر نمایندگی مقام
+            معظم رهبری طی پیامی فرارسیدن ایام سوگواری سرور و سالار شهیدان امام
+            حسین (ع) تسلیت گفت.
+          </p>
+        </div>
+        <div class="news-date">
+          ۰۸ مرداد ۱۴۰۱
+        </div>
+      </div>
+      <div class="news">
+        <img src="media/2827282f-969e-4be8-a371-fc96800a0630_20220730_131529.jpg" alt="" />
+        <div class="news-text">
+          <div class="news-title">
+            <span class="small"></span>
+            <a href=""
+              >عیادت رئیس دانشگاه از روحانی مجروح حادثه امامزاده محمد كرج</a
+            >
+            <span class="alert">جدید!</span>
+          </div>
+          <div class="news-details">
+            <span class="uk-icon-comments"></span>
+            <span class="news-comments">تعداد نظرات: ۰</span>
+          </div>
+          <p>
+            دکتر صیادی رئیس دانشگاه علوم پزشکی البرز به دیدار و عیادت روحانی
+            مجروح شده در امامزاده محمد (ع) کرج رفت
+          </p>
+        </div>
+        <div class="news-date">
+          ۰۸ مرداد ۱۴۰۱
+        </div>
+      </div>
+      <div class="news">
+        <img
+          src="media/e2470007-8a7d-4a05-b31d-4f9f7ef10699_20220730_120039.jpg"
+          alt=""
+        />
+        <div class="news-text">
+          <div class="news-title">
+            <span class="small"
+              >با هشدار های هواشناسی و وقوع سیل در نقاط مختلف کشور</span
+            >
+            <a href="">دانشگاه علوم پزشكی البرز در آمادگی كامل قرار گرفت</a>
+            <span class="alert">جدید!</span>
+          </div>
+          <div class="news-details">
+            <span class="uk-icon-comments"></span>
+            <span class="news-comments">تعداد نظرات: ۰</span>
+          </div>
+          <p>
+            دکتر شهرام صیادی رئیس دانشگاه از آمادگی کامل و وضعیت آماده باش تمامی
+            بیمارستان ها و پایگاه های بهداشتی و اورژانس 115 در خطر وقوع سیل در
+            البرز خبر داد.
+          </p>
+        </div>
+        <div class="news-date">
+          ۰۸ مرداد ۱۴۰۱
+        </div>
+      </div>
+      <div class="news">
+        <img
+          src="media/461a6958-a97e-40bb-8220-e7b6f2df3ad8_20220730_173623.jpg"
+          alt=""
+        />
+        <div class="news-text">
+          <div class="news-title">
+            <span class="small"
+              >میرزابیگی رییس نظام پرستاری کشور در البرز :</span
+            >
+            <a href=""
+              >۲۲۰ هزار نفر عضو نظام پرستاری /الكترونیكی شدن مستندات و كاهش ثبت
+              كاغذی توسط پرستاران</a
+            >
+            <span class="alert">جدید!</span>
+          </div>
+          <div class="news-details">
+            <span class="uk-icon-comments"></span>
+            <span class="news-comments">تعداد نظرات: ۰</span>
+          </div>
+          <p>
+            صبح روز شنبه نشست رئیس سازمان نظام پرستاری کشور با رئیس دانشگاه و
+            مسئولین حوزه پرستاری استان البرز برگزار شد
+          </p>
+        </div>
+        <div class="news-date">
+          ۰۸ مرداد ۱۴۰۱
+        </div>
+      </div>
+      <div class="news">
+        <img
+          src="media/ec1ae837-e9e4-4b84-beb3-d340808b2e70_20220730_124255.jpg"
+          alt=""
+        />
+        <div class="news-text">
+          <div class="news-title">
+            <span class="small"> هشدار </span>
+            <a href="">هشدارهای لازم در هنگام وقوع سیل</a>
+            <span class="alert">جدید!</span>
+          </div>
+          <div class="news-details">
+            <span class="uk-icon-comments"></span>
+            <span class="news-comments">تعداد نظرات: ۰</span>
+          </div>
+          <p>چه نکاتی را باید در حین و بعد از وقوع سیل در نظر بگیریم</p>
+        </div>
+        <div class="news-date">
+          ۰۸ مرداد ۱۴۰۱
+        </div>
+      </div>
+      <div class="news">
+        <img
+          src="media/80b2e2c4-cece-44f3-ba8e-a6e559b3dcad_20220730_104219 (1).jpg"
+          alt=""
+        />
+        <div class="news-text">
+          <div class="news-title">
+            <span class="small">فرا رسیدن ماه محرم تسلیت باد</span>
+            <a href=""
+              >فضا سازی و سیاه پوش شدن دانشگاه علوم پزشكی البرز به مناسبت
+              فرارسیدن ماه محرم</a
+            >
+            <span class="alert">جدید!</span>
+          </div>
+          <div class="news-details">
+            <span class="uk-icon-comments"></span>
+            <span class="news-comments">تعداد نظرات: ۰</span>
+          </div>
+          <p></p>
+        </div>
+        <div class="news-date">
+          ۰۸ مرداد ۱۴۰۱
+        </div>
+      </div>
+      </div>
+    </div>
+    <div class="services">
+      <div class="uk-container uk-container-center">
+        <ul class="uk-flex uk-flex-center uk-flex-wrap">
+          <li>
+            <a href="#">
+              <span class="icon1">
+                <meta>
+              </span>
+              <span>معاونت درمان</span>
+            </a>
+          </li>
+          <li>
+            <a href="#">
+              <span class="icon2">
+                <meta>
+              </span>
+              <span>میز خدمت الکترونیک</span>
+            </a>
+          </li>
+          <li>
+            <a href="#">
+              <span class="icon3">
+                <meta>
+              </span>
+              <span>فناوری اطلاعات</span>
+            </a>
+          </li>
+          <li>
+            <a href="#">
+              <span class="icon4">
+                <meta>
+              </span>
+              <span>معاونت آموزشی</span>
+            </a>
+          </li>
+          <li>
+            <a href="#">
+              <span class="icon5">
+                <meta>
+              </span>
+              <span>معاونت دانشجویی و فرهنگی</span>
+            </a>
+          </li>
+          <li>
+            <a href="#">
+              <span class="icon6">
+                <meta>
+              </span>
+              <span>معاونت توسعه</span>
+            </a>
+          </li>
+          <li>
+            <a href="#">
+              <span class="icon7">
+                <meta>
+              </span>
+              <span>غذا و دارو</span>
+            </a>
+          </li>
+          <li>
+            <a href="#">
+              <span class="icon8">
+                <meta>
+              </span>
+              <span>معاونت بهداشت</span>
+            </a>
+          </li>
+          <li>
+            <a href="#">
+              <span class="icon9">
+                <meta>
+              </span>
+              <span>معاونت پژوهشی</span>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <div class="systems">
+      paranoia
+      <br>
+      paranoia
+    </div>
+    <footer>
+
+    </footer>
+    <script src="js/jquery-3.6.0.min.js"></script>
+    <script src="js/teleType.js"></script>
+    <script src="js/uikit.min.js"></script>
+    <script src="js/components/sticky.min.js"></script>
+    <script src="js/owl.carousel.min.js"></script>
+    <script src="js/app.js"></script>
+  </body>
+</html>
